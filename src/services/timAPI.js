@@ -1,8 +1,8 @@
-// src/services/faqAPI.js
-import axios from "axios"
+// src/services/timAPI.js
+import axios from "axios";
 
-const API_URL = "https://wkqsneacqedhizfjiaop.supabase.co/rest/v1/faq"
-const API_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6IndrcXNuZWFjcWVkaGl6ZmppYW9wIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDkwMzQ0MjAsImV4cCI6MjA2NDYxMDQyMH0.7wBYh--bWu4jCddcstASMj_RxnLsLo7WQjiZOGfcTZI" // gunakan API key kamu
+const API_URL = "https://wkqsneacqedhizfjiaop.supabase.co/rest/v1/tim";
+const API_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6IndrcXNuZWFjcWVkaGl6ZmppYW9wIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDkwMzQ0MjAsImV4cCI6MjA2NDYxMDQyMH0.7wBYh--bWu4jCddcstASMj_RxnLsLo7WQjiZOGfcTZI";
 
 const headers = {
   apikey: API_KEY,
@@ -10,7 +10,7 @@ const headers = {
   "Content-Type": "application/json",
 };
 
-export const FaqAPI = {
+export const TimAPI = {
   async fetchAll() {
     const response = await axios.get(API_URL, { headers });
     return response.data;
