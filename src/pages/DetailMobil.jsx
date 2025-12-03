@@ -93,10 +93,21 @@ export default function MobilDetail() {
   }, [state.openModal]);
 
   // Ambil review sesuai mobil
-  useEffect(() => {
-    const r = reviewData.filter((x) => String(x.car_id) === String(id));
-    setReviews(r);
-  }, [id]);
+useEffect(() => {
+  async function fetchReviews() {
+    try {
+      const data = await TestimoniAPI.fetchAll();
+      const carReviews = data.filter((x) => String(x.car_id) === String(id));
+      setReviews(carReviews);
+    } catch (error) {
+      console.error("Gagal fetch testimoni:", error);
+      setReviews([]);
+    }
+  }
+  fetchReviews();
+}, [id]);
+
+
 
   // SUBMIT BOOKING
   const handleBooking = async (e) => {
