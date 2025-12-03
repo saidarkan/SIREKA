@@ -125,11 +125,10 @@ useEffect(() => {
 
     try {
       await BookingAPI.create(bookingData);
-      setNotifBooking({ show: true, message: "Pemesanan berhasil dikirim!" });
+      
       document.getElementById("modal_booking").close();
 
-      // Auto hide notif setelah 3 detik
-      setTimeout(() => setNotifBooking({ show: false, message: "" }), 3000);
+     
     } catch (error) {
       console.error("Gagal booking:", error);
       setNotifBooking({
