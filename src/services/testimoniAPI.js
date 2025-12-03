@@ -1,8 +1,8 @@
 
 import axios from "axios"
 
-const API_URL = "https://wkqsneacqedhizfjiaop.supabase.co/rest/v1/testimoni"
-const API_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6IndrcXNuZWFjcWVkaGl6ZmppYW9wIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDkwMzQ0MjAsImV4cCI6MjA2NDYxMDQyMH0.7wBYh--bWu4jCddcstASMj_RxnLsLo7WQjiZOGfcTZI"
+const API_URL = "https://ecjiwuwsgtkbgcxgofpa.supabase.co/rest/v1/testimonies"
+const API_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVjaml3dXdzZ3RrYmdjeGdvZnBhIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDg5NTE2MDgsImV4cCI6MjA2NDUyNzYwOH0.KHuyGERH6EzfNxyXwqWgcCwJCzbj0kNtAsztME-_qoE"
 
 const headers = {
   apikey: API_KEY,
