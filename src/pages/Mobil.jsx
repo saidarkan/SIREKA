@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import { FaClock, FaGasPump } from "react-icons/fa";
 import { PiSeatFill } from "react-icons/pi";
 import Banner from "../components/Banner";
-import { MobilAPI } from "../services/MobilAPI";
+import { MobilAPI } from "../services/mobilAPI";
 
 export default function Mobil() {
   const itemsPerPage = 9;
