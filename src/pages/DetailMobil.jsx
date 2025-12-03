@@ -161,7 +161,7 @@ useEffect(() => {
       setJabatanReview("");
       setRatingReview(5);
       setPesanReview("");
-      alert("Terima kasih atas testimoni Anda!");
+   
     } catch (error) {
       console.error("Gagal menambah testimoni:", error);
       alert("Terjadi kesalahan saat mengirim testimoni.");
