@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "customer": "Budi Santoso",
+    "car": "Toyota Avanza",
+    "date": "2025-06-15",
+    "duration": 3,
+    "status": "Confirmed"
+  },
+  {
+    "id": 2,
+    "customer": "Siti Aminah",
+    "car": "Honda Brio",
+    "date": "2025-06-18",
+    "duration": 2,
+    "status": "Pending"
+  },
+  {
+    "id": 3,
+    "customer": "Dewi Lestari",
+    "car": "Mitsubishi Pajero",
+    "date": "2025-06-20",
+    "duration": 5,
+    "status": "Confirmed"
+  },
+  {
+    "id": 4,
+    "customer": "Agus Prabowo",
+    "car": "Daihatsu Xenia",
+    "date": "2025-06-22",
+    "duration": 1,
+    "status": "Cancelled"
+  },
+  {
+    "id": 5,
+    "customer": "Yulianto",
+    "car": "Ford Ranger",
+    "date": "2025-06-25",
+    "duration": 4,
+    "status": "Pending"
+  },
+  {
+    "id": 6,
+    "customer": "Fitri Andayani",
+    "car": "Mercedes-Benz C-Class",
+    "date": "2025-06-26",
+    "duration": 7,
+    "status": "Confirmed"
+  },
+  {
+    "id": 7,
+    "customer": "Rudi Hartono",
+    "car": "BMW X5",
+    "date": "2025-06-28",
+    "duration": 3,
+    "status": "Pending"
+  },
+  {
+    "id": 8,
+    "customer": "Mega Sari",
+    "car": "Suzuki Ertiga",
+    "date": "2025-06-30",
+    "duration": 2,
+    "status": "Confirmed"
+  },
+  {
+    "id": 9,
+    "customer": "Andi Prasetyo",
+    "car": "Toyota Innova",
+    "date": "2025-07-01",
+    "duration": 5,
+    "status": "Confirmed"
+  },
+  {
+    "id": 10,
+    "customer": "Sulastri",
+    "car": "Hyundai Stargazer",
+    "date": "2025-07-03",
+    "duration": 4,
+    "status": "Pending"
+  }
+]

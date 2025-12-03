@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Marketing Specialist",
+    "location": "Bali, Indonesia",
+    "description": "Bertanggung jawab mengembangkan strategi pemasaran digital untuk meningkatkan brand awareness dan penjualan."
+  },
+  {
+    "id": 2,
+    "title": "Driver Profesional",
+    "location": "Denpasar, Bali",
+    "description": "Mengantar pelanggan dengan aman dan tepat waktu, menjaga kendaraan dalam kondisi prima."
+  },
+  {
+    "id": 3,
+    "title": "Customer Service",
+    "location": "Remote",
+    "description": "Melayani keluhan dan pertanyaan pelanggan via telepon dan email dengan profesional dan ramah."
+  },
+  {
+    "id": 4,
+    "title": "Admin Office",
+    "location": "Kantor Pusat, Bali",
+    "description": "Mengelola dokumen dan administrasi perusahaan serta mendukung operasional sehari-hari."
+  }
+]

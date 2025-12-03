@@ -1,0 +1,162 @@
+[
+  {
+    "CustomerID": "C001",
+    "CustomerName": "Dewi Lestari",
+    "Email": "dewi.lestari@example.com",
+    "Phone": "081234567890",
+    "TotalRental": "Rp12.000.000",
+    "Status": "Active"
+  },
+  {
+    "CustomerID": "C002",
+    "CustomerName": "Andi Pratama",
+    "Email": "andi.pratama@example.com",
+    "Phone": "081987654321",
+    "TotalRental": "Rp8.500.000",
+    "Status": "Active"
+  },
+  {
+    "CustomerID": "C003",
+    "CustomerName": "Siti Nurhaliza",
+    "Email": "siti.nurhaliza@example.com",
+    "Phone": "082233445566",
+    "TotalRental": "Rp3.200.000",
+    "Status": "Inactive"
+  },
+  {
+    "CustomerID": "C004",
+    "CustomerName": "Budi Santoso",
+    "Email": "budi.santoso@example.com",
+    "Phone": "081112223333",
+    "TotalRental": "Rp15.000.000",
+    "Status": "Active"
+  },
+  {
+    "CustomerID": "C005",
+    "CustomerName": "Rina Marlina",
+    "Email": "rina.marlina@example.com",
+    "Phone": "082334455667",
+    "TotalRental": "Rp7.800.000",
+    "Status": "Active"
+  },
+  {
+    "CustomerID": "C006",
+    "CustomerName": "Dian Puspita",
+    "Email": "dian.puspita@example.com",
+    "Phone": "081345678901",
+    "TotalRental": "Rp2.500.000",
+    "Status": "Inactive"
+  },
+  {
+    "CustomerID": "C007",
+    "CustomerName": "Fajar Nugroho",
+    "Email": "fajar.nugroho@example.com",
+    "Phone": "082122334455",
+    "TotalRental": "Rp6.000.000",
+    "Status": "Active"
+  },
+  {
+    "CustomerID": "C008",
+    "CustomerName": "Tika Rahmawati",
+    "Email": "tika.rahmawati@example.com",
+    "Phone": "081556677889",
+    "TotalRental": "Rp4.000.000",
+    "Status": "Inactive"
+  },
+  {
+    "CustomerID": "C009",
+    "CustomerName": "Galih Setiawan",
+    "Email": "galih.setiawan@example.com",
+    "Phone": "081998877665",
+    "TotalRental": "Rp9.000.000",
+    "Status": "Active"
+  },
+  {
+    "CustomerID": "C010",
+    "CustomerName": "Lina Sari",
+    "Email": "lina.sari@example.com",
+    "Phone": "082122556677",
+    "TotalRental": "Rp10.000.000",
+    "Status": "Active"
+  },
+  {
+    "CustomerID": "C011",
+    "CustomerName": "Rendi Alfian",
+    "Email": "rendi.alfian@example.com",
+    "Phone": "081667788990",
+    "TotalRental": "Rp5.300.000",
+    "Status": "Inactive"
+  },
+  {
+    "CustomerID": "C012",
+    "CustomerName": "Nina Kurnia",
+    "Email": "nina.kurnia@example.com",
+    "Phone": "081899977733",
+    "TotalRental": "Rp13.400.000",
+    "Status": "Active"
+  },
+  {
+    "CustomerID": "C013",
+    "CustomerName": "Agus Haryanto",
+    "Email": "agus.haryanto@example.com",
+    "Phone": "082133344455",
+    "TotalRental": "Rp7.200.000",
+    "Status": "Active"
+  },
+  {
+    "CustomerID": "C014",
+    "CustomerName": "Maya Putri",
+    "Email": "maya.putri@example.com",
+    "Phone": "081223344556",
+    "TotalRental": "Rp6.700.000",
+    "Status": "Inactive"
+  },
+  {
+    "CustomerID": "C015",
+    "CustomerName": "Bayu Saputra",
+    "Email": "bayu.saputra@example.com",
+    "Phone": "081334455667",
+    "TotalRental": "Rp9.800.000",
+    "Status": "Active"
+  },
+  {
+    "CustomerID": "C016",
+    "CustomerName": "Vina Maharani",
+    "Email": "vina.maharani@example.com",
+    "Phone": "081122334455",
+    "TotalRental": "Rp11.100.000",
+    "Status": "Active"
+  },
+  {
+    "CustomerID": "C017",
+    "CustomerName": "Hendra Gunawan",
+    "Email": "hendra.gunawan@example.com",
+    "Phone": "081998877665",
+    "TotalRental": "Rp5.900.000",
+    "Status": "Inactive"
+  },
+  {
+    "CustomerID": "C018",
+    "CustomerName": "Rosa Amelia",
+    "Email": "rosa.amelia@example.com",
+    "Phone": "082177788899",
+    "TotalRental": "Rp8.800.000",
+    "Status": "Active"
+  },
+  {
+    "CustomerID": "C019",
+    "CustomerName": "Dimas Arya",
+    "Email": "dimas.arya@example.com",
+    "Phone": "081899988877",
+    "TotalRental": "Rp3.600.000",
+    "Status": "Inactive"
+  },
+  {
+    "CustomerID": "C020",
+    "CustomerName": "Selvi Oktaviani",
+    "Email": "selvi.oktaviani@example.com",
+    "Phone": "082233344455",
+    "TotalRental": "Rp14.500.000",
+    "Status": "Active"
+  }
+]

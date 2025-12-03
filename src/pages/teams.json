@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Andi Prasetyo",
+    "position": "Boss",
+    "image": "./img/1.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Rina Kusuma",
+    "position": "Manager",
+    "image": "./img/2.png"
+  },
+  {
+    "id": 3,
+    "name": "Budi Santoso",
+    "position": "Driver",
+    "image": "./img/3.png"
+  },
+  {
+    "id": 4,
+    "name": "Heri Subedjo",
+    "position": "Driver",
+    "image": "./img/4.png"
+  },
+  {
+    "id": 5,
+    "name": "Agus Rahmat",
+    "position": "Driver",
+    "image": "./img/5.png"
+  },
+  {
+    "id": 6,
+    "name": "Bayu Saputra",
+    "position": "Driver",
+    "image": "./img/6.png"
+  },
+  {
+    "id": 7,
+    "name": "Roberto Fransicus",
+    "position": "Driver",
+    "image": "./img/7.png"
+  }
+]

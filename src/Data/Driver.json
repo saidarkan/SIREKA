@@ -1,0 +1,183 @@
+[
+    {
+      "DriverID": "D001",
+      "DriverName": "Ahmad Fauzi",
+      "Phone": "081234567890",
+      "Email": "ahmad.fauzi@example.com",
+      "LicenseNumber": "SIM12345678",
+      "Experience": 5,
+      "Status": "Active"
+    },
+    {
+      "DriverID": "D002",
+      "DriverName": "Slamet Riyadi",
+      "Phone": "081987654321",
+      "Email": "slamet.riyadi@example.com",
+      "LicenseNumber": "SIM87654321",
+      "Experience": 8,
+      "Status": "Active"
+    },
+    {
+      "DriverID": "D003",
+      "DriverName": "Bambang Irawan",
+      "Phone": "082122334455",
+      "Email": "bambang.irawan@example.com",
+      "LicenseNumber": "SIM23456789",
+      "Experience": 3,
+      "Status": "Inactive"
+    },
+    {
+      "DriverID": "D004",
+      "DriverName": "Siti Aminah",
+      "Phone": "081223344556",
+      "Email": "siti.aminah@example.com",
+      "LicenseNumber": "SIM34567890",
+      "Experience": 6,
+      "Status": "Active"
+    },
+    {
+      "DriverID": "D005",
+      "DriverName": "Yusuf Maulana",
+      "Phone": "081334455667",
+      "Email": "yusuf.maulana@example.com",
+      "LicenseNumber": "SIM45678901",
+      "Experience": 2,
+      "Status": "Inactive"
+    },
+    {
+      "DriverID": "D006",
+      "DriverName": "Desi Marlina",
+      "Phone": "082233445566",
+      "Email": "desi.marlina@example.com",
+      "LicenseNumber": "SIM56789012",
+      "Experience": 4,
+      "Status": "Active"
+    },
+    {
+      "DriverID": "D007",
+      "DriverName": "Rizky Hidayat",
+      "Phone": "081445566778",
+      "Email": "rizky.hidayat@example.com",
+      "LicenseNumber": "SIM67890123",
+      "Experience": 7,
+      "Status": "Active"
+    },
+    {
+      "DriverID": "D008",
+      "DriverName": "Lilis Suryani",
+      "Phone": "081556677889",
+      "Email": "lilis.suryani@example.com",
+      "LicenseNumber": "SIM78901234",
+      "Experience": 5,
+      "Status": "Inactive"
+    },
+    {
+      "DriverID": "D009",
+      "DriverName": "Joko Santoso",
+      "Phone": "081667788990",
+      "Email": "joko.santoso@example.com",
+      "LicenseNumber": "SIM89012345",
+      "Experience": 10,
+      "Status": "Active"
+    },
+    {
+      "DriverID": "D010",
+      "DriverName": "Nina Kartika",
+      "Phone": "081778899001",
+      "Email": "nina.kartika@example.com",
+      "LicenseNumber": "SIM90123456",
+      "Experience": 1,
+      "Status": "Inactive"
+    },
+    {
+      "DriverID": "D011",
+      "DriverName": "Fajar Pratama",
+      "Phone": "082112233445",
+      "Email": "fajar.pratama@example.com",
+      "LicenseNumber": "SIM01234567",
+      "Experience": 6,
+      "Status": "Active"
+    },
+    {
+      "DriverID": "D012",
+      "DriverName": "Ratna Sari",
+      "Phone": "081899977733",
+      "Email": "ratna.sari@example.com",
+      "LicenseNumber": "SIM13467920",
+      "Experience": 4,
+      "Status": "Active"
+    },
+    {
+      "DriverID": "D013",
+      "DriverName": "Bayu Nugroho",
+      "Phone": "081900112233",
+      "Email": "bayu.nugroho@example.com",
+      "LicenseNumber": "SIM23456780",
+      "Experience": 3,
+      "Status": "Inactive"
+    },
+    {
+      "DriverID": "D014",
+      "DriverName": "Dina Oktaviani",
+      "Phone": "082233344455",
+      "Email": "dina.oktaviani@example.com",
+      "LicenseNumber": "SIM24567891",
+      "Experience": 5,
+      "Status": "Active"
+    },
+    {
+      "DriverID": "D015",
+      "DriverName": "Rendi Wicaksono",
+      "Phone": "081233344455",
+      "Email": "rendi.wicaksono@example.com",
+      "LicenseNumber": "SIM99887766",
+      "Experience": 7,
+      "Status": "Active"
+    },
+    {
+      "DriverID": "D016",
+      "DriverName": "Maya Andriani",
+      "Phone": "081344556677",
+      "Email": "maya.andriani@example.com",
+      "LicenseNumber": "SIM87654320",
+      "Experience": 2,
+      "Status": "Inactive"
+    },
+    {
+      "DriverID": "D017",
+      "DriverName": "Galih Rahman",
+      "Phone": "082100223344",
+      "Email": "galih.rahman@example.com",
+      "LicenseNumber": "SIM55443322",
+      "Experience": 6,
+      "Status": "Active"
+    },
+    {
+      "DriverID": "D018",
+      "DriverName": "Nadia Ramadhani",
+      "Phone": "081288899900",
+      "Email": "nadia.ramadhani@example.com",
+      "LicenseNumber": "SIM66778899",
+      "Experience": 3,
+      "Status": "Inactive"
+    },
+    {
+      "DriverID": "D019",
+      "DriverName": "Hendri Saputra",
+      "Phone": "081322334455",
+      "Email": "hendri.saputra@example.com",
+      "LicenseNumber": "SIM11223344",
+      "Experience": 4,
+      "Status": "Active"
+    },
+    {
+      "DriverID": "D020",
+      "DriverName": "Tika Amalia",
+      "Phone": "082177788899",
+      "Email": "tika.amalia@example.com",
+      "LicenseNumber": "SIM44332211",
+      "Experience": 5,
+      "Status": "Active"
+    }
+  ]
+  

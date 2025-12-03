@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "judul": "Toyota Avanza Veloz 2020",
+    "media": "https://upload.wikimedia.org/wikipedia/commons/e/ec/2020_Toyota_Avanza_1.5_Veloz_%28rear%29_%2822_June_2023%29.jpg"
+  },
+  {
+    "id": 2,
+    "judul": "Foto Tempat Rental - Lobby Depan",
+    "media": "https://www.oasisrajaampat.com/wp-content/uploads/2023/11/Rental-Mobil-Raja-Ampat.jpg"
+  },
+  {
+    "id": 3,
+    "judul": "Transaksi Pembayaran via Mobile",
+    "media": "https://www.sapx.id/blog/wp-content/uploads/2023/03/hands-using-phone-credit-card-online-payment-1296x700.jpg"
+  },
+  {
+    "id": 4,
+    "judul": "Toyota Fortuner",
+    "media": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/2015_Toyota_Fortuner_%28New_Zealand%29.jpg/1200px-2015_Toyota_Fortuner_%28New_Zealand%29.jpg"
+  },
+  {
+    "id": 5,
+    "judul": "Foto Tempat Rental - Area Parkir",
+    "media": "https://akcdn.detik.net.id/visual/2020/01/13/8e864fe9-c6ad-4e5f-b2e6-43d82da58f2d_169.jpeg?w=400&q=90"
+  },
+  {
+    "id": 6,
+    "judul": "Struk Transaksi Pembayaran",
+    "media": "https://www.jakrent.id/wp-content/uploads/2023/07/Contoh-kwitansi-rental-mobil-10.png"
+  },
+  {
+    "id": 7,
+    "judul": "Honda Brio",
+    "media": "https://asset.kompas.com/crops/aP0BXtjEOBFoT0pQtb6w9U7vcGI=/7x0:659x435/1200x800/data/photo/2020/12/04/5fc9b657b6ecc.jpg"
+  },
+  {
+    "id": 8,
+    "judul": "Foto Tempat Rental - Ruang Tunggu",
+    "media": "../../public/img/8.png"
+  },
+  {
+    "id": 9,
+    "judul": "Transaksi Pembayaran Tunai",
+    "media": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,f_auto,q_auto:best,w_640/v1634025439/01hxcbdzmf76g2nwmt42m4x6hs.jpg"
+  },
+  {
+    "id": 10,
+    "judul": "Mitsubishi Xpander",
+    "media": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzoG2p_flbN9XbCMMF9assmqOaCxxrpYVFTA&s"
+  },
+  {
+    "id": 11,
+    "judul": "Foto Tempat Rental - Kantor Customer Service",
+    "media": "../../public/img/9.png"
+  },
+  {
+    "id": 12,
+    "judul": "Konfirmasi Transaksi Melalui Email",
+    "media": "https://www.bee.id/wp-content/uploads/2020/04/Cara-Kirim-Email-Invoice-BeeCloud-07.png"
+  }
+]

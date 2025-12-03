@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "judul": "Tips Merawat Mobil Agar Awet",
+    "kutipan": "Pelajari cara menjaga performa mobil agar tetap optimal dalam jangka panjang.",
+    "gambar": "https://astraotoshop.com/asset/article-aop/cara-merawat-mobil_20240115.webp",
+    "tanggal": "2024-05-01",
+    "kategori": "Perawatan",
+    "isi": "Merawat mobil agar awet dimulai dari pemeriksaan rutin seperti penggantian oli, pengecekan tekanan ban, pemeriksaan rem, dan servis berkala. Juga penting menjaga kebersihan eksterior dan interior, serta menggunakan bahan bakar sesuai rekomendasi pabrik."
+  },
+  {
+    "id": 2,
+    "judul": "Kapan Waktu yang Tepat untuk Ganti Oli?",
+    "kutipan": "Ganti oli secara teratur sangat penting untuk kesehatan mesin mobil Anda.",
+    "gambar": "https://www.mobil.co.id/-/media/project/wep/mobil/mobil-id/mitos-dan-fakta_lead-banner/banner-image/mainbanner_tipsmerawatmobil_1200x630.jpg",
+    "tanggal": "2024-05-03",
+    "kategori": "Perawatan",
+    "isi": "Idealnya, oli diganti setiap 5.000–10.000 km tergantung jenis oli dan penggunaan mobil. Tanda-tanda oli perlu diganti antara lain suara mesin kasar, indikator oli menyala, atau warna oli menghitam pekat."
+  },
+  {
+    "id": 3,
+    "judul": "Perbedaan Mobil Matic dan Manual",
+    "kutipan": "Simak kelebihan dan kekurangan masing-masing transmisi.",
+    "gambar": "https://img.inews.co.id/media/1050/files/inews_new/2022/03/19/Screenshot_20220319_055535_Layout.jpg",
+    "tanggal": "2024-05-05",
+    "kategori": "Teknis",
+    "isi": "Mobil matic lebih mudah dikendarai terutama di kemacetan, sedangkan mobil manual memberi kontrol lebih pada pengemudi dan cenderung lebih irit bahan bakar. Pilih sesuai kebutuhan dan kenyamanan Anda."
+  },
+  {
+    "id": 4,
+    "judul": "Cara Menghemat BBM Saat Berkendara",
+    "kutipan": "Dengan teknik tertentu, kamu bisa menghemat bahan bakar secara signifikan.",
+    "gambar": "https://www.goodyear-indonesia.com/wp-content/uploads/web-article-oct-21st.png",
+    "tanggal": "2024-05-06",
+    "kategori": "Tips Berkendara",
+    "isi": "Hemat BBM bisa dicapai dengan mengemudi secara halus, menjaga tekanan ban, servis rutin, dan tidak membawa beban berlebih. Gunakan AC seperlunya dan hindari akselerasi mendadak."
+  },
+  {
+    "id": 5,
+    "judul": "Wajib Tahu! Tanda Rem Mobil Bermasalah",
+    "kutipan": "Jangan sepelekan gejala rem mobil bermasalah, bisa fatal akibatnya!",
+    "gambar": "https://www.toyota.astra.co.id/sites/default/files/2023-09/TC%209%20JULI%20-%20TANDA%20REM%20MOBIL%20BERMASALAH%20%28AFTERSALES%29.jpg",
+    "tanggal": "2024-05-07",
+    "kategori": "Perawatan",
+    "isi": "Gejala rem bermasalah meliputi suara berdecit saat mengerem, pedal terasa lembek atau keras, mobil bergetar saat pengereman, dan waktu respons rem yang melambat. Segera periksakan ke bengkel bila mengalami hal ini."
+  },
+  {
+    "id": 6,
+    "judul": "Pentingnya Servis Berkala",
+    "kutipan": "Servis rutin membuat mobil lebih tahan lama dan aman dikendarai.",
+    "gambar": "https://arista-group.co.id/wp-content/uploads/2023/08/6-Manfaat-Servis-Mobil-Berkala-Secara-Rutin.png",
+    "tanggal": "2024-05-08",
+    "kategori": "Perawatan",
+    "isi": "Servis berkala meliputi pengecekan oli, filter, rem, suspensi, hingga sistem pendingin. Ini membantu mendeteksi masalah lebih awal, menjaga performa, dan memperpanjang usia kendaraan."
+  },
+  {
+    "id": 7,
+    "judul": "Fungsi dan Manfaat Nitrogen untuk Ban Mobil",
+    "kutipan": "Nitrogen bisa menjaga tekanan ban lebih stabil dibandingkan udara biasa.",
+    "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfouTCpVB_Y8pYxnQSLwmAK1o6C4PTqYG6aw&s",
+    "tanggal": "2024-05-09",
+    "kategori": "Teknis",
+    "isi": "Nitrogen memiliki molekul lebih besar dari udara biasa, sehingga tekanan ban lebih stabil dan tidak cepat berkurang. Ini berdampak positif terhadap efisiensi BBM dan kenyamanan berkendara."
+  },
+  {
+    "id": 8,
+    "judul": "Kenapa Mobil Sering Mogok Saat Hujan?",
+    "kutipan": "Hindari kerusakan mesin dengan tips perawatan mobil saat musim hujan.",
+    "gambar": "https://www.aca.co.id/cmsprd/uploads/C_5CaraMengatasiMobilMogoksaatBanjir%201533095681.jpg",
+    "tanggal": "2024-05-10",
+    "kategori": "Tips Berkendara",
+    "isi": "Air hujan dapat masuk ke dalam sistem pengapian atau ECU. Pastikan kabel dan aki terpasang baik, hindari genangan air tinggi, dan rutin cek sistem kelistrikan mobil Anda."
+  },
+  {
+    "id": 9,
+    "judul": "Persiapan Sebelum Road Trip",
+    "kutipan": "Biar perjalanan jauh tetap aman dan nyaman, ini yang perlu disiapkan!",
+    "gambar": "https://storage.googleapis.com/prod-nissan-indonesia/static-assets/article/artikel-no.3.png.ximg.l_12_m.smart.png",
+    "tanggal": "2024-05-11",
+    "kategori": "Tips Perjalanan",
+    "isi": "Persiapan mencakup pengecekan ban, oli, rem, air radiator, dan perlengkapan darurat. Siapkan juga dokumen kendaraan dan rute perjalanan agar perjalanan lebih lancar dan aman."
+  },
+  {
+    "id": 10,
+    "judul": "Cara Cek Aki Mobil Sendiri di Rumah",
+    "kutipan": "Langkah mudah untuk mengetahui kondisi aki mobil kamu.",
+    "gambar": "https://www.roojai.co.id/wp-content/uploads/2022/02/cara-cek-aki-kering-mobil-masih-bagus-atau-tidak.jpg",
+    "tanggal": "2024-05-12",
+    "kategori": "Perawatan",
+    "isi": "Gunakan voltmeter untuk mengukur tegangan aki (harus 12.4–12.7V saat mesin mati). Periksa juga kondisi terminal dan permukaan aki apakah berkarat atau bocor."
+  },
+  {
+    "id": 11,
+    "judul": "Perawatan Mobil Diesel vs Bensin",
+    "kutipan": "Perbedaan mendasar perawatan mobil dengan jenis bahan bakar berbeda.",
+    "gambar": "https://www.carsome.id/news/wp-content/uploads/news/perbedaan-mesin-diesel-dan-mesin-bensin-mobil-isi-bensin-image-1.jpg",
+    "tanggal": "2024-05-13",
+    "kategori": "Teknis",
+    "isi": "Mobil diesel butuh perhatian lebih pada filter solar dan sistem injeksi. Mobil bensin relatif lebih mudah dirawat dan lebih hening, namun keduanya butuh servis rutin dan bahan bakar berkualitas."
+  },
+  {
+    "id": 12,
+    "judul": "Modifikasi Mobil, Apa yang Aman dan Legal?",
+    "kutipan": "Ingin modif mobil? Ini aturan dan tips yang perlu kamu tahu.",
+    "gambar": "https://enimekspres.bacakoran.co/upload/8a8bd7cc5be4894d7af276e69136b899.jpg",
+    "tanggal": "2024-05-14",
+    "kategori": "Modifikasi",
+    "isi": "Modifikasi legal adalah yang tidak mengubah struktur utama kendaraan dan tidak membahayakan. Contoh modifikasi aman: audio, lampu, velg, serta stiker. Perhatikan regulasi dari pihak berwenang agar tetap aman digunakan di jalan."
+  },
+  {
+    "id": 13,
+    "judul": "Keuntungan Sewa Mobil Dibandingkan Membeli",
+    "kutipan": "Tidak semua orang butuh punya mobil pribadi. Sewa bisa jadi pilihan pintar.",
+    "gambar": "https://i-car.id/wp-content/uploads/2021/06/keuntungan-liburan-dengan-rental-mobil.jpg",
+    "tanggal": "2024-05-15",
+    "kategori": "Tips Perjalanan",
+    "isi": "Sewa mobil menghemat biaya perawatan dan pajak, cocok untuk kebutuhan sementara. Fleksibel dan tersedia berbagai jenis mobil sesuai keperluan, tanpa komitmen jangka panjang seperti kepemilikan."
+  },
+  {
+    "id": 14,
+    "judul": "Cara Membersihkan Interior Mobil",
+    "kutipan": "Jangan hanya luar saja! Interior mobil juga butuh perhatian.",
+    "gambar": "https://www.gardaoto.com/wp-content/uploads/2022/06/Cara-Merawat-dan-Membersihkan-Interior-Mobil-Agar-Tetap-Baru.jpg",
+    "tanggal": "2024-05-16",
+    "kategori": "Perawatan",
+    "isi": "Gunakan vacuum cleaner untuk membersihkan debu, lap bagian dashboard dan jok dengan kain lembap dan pembersih khusus. Jangan lupa bersihkan karpet dan semprot pewangi kabin agar tetap nyaman."
+  },
+  {
+    "id": 15,
+    "judul": "Tips Parkir Mobil di Tempat Sempit",
+    "kutipan": "Teknik aman parkir di lahan terbatas, anti nyenggol!",
+    "gambar": "https://miro.medium.com/v2/resize:fit:700/0*LTu4lrb4flbbv-Ys.jpg",
+    "tanggal": "2024-05-17",
+    "kategori": "Tips Berkendara",
+    "isi": "Gunakan kaca spion dan sensor parkir, gerakkan mobil perlahan, serta perhatikan sudut masuk. Latihan secara rutin di tempat aman agar lebih percaya diri saat menghadapi lahan parkir sempit."
+  },
+  {
+    "id": 16,
+    "judul": "Memilih Asuransi Mobil yang Tepat",
+    "kutipan": "Pelajari jenis-jenis asuransi mobil dan mana yang cocok buat kamu.",
+    "gambar": "https://myoona.id/content/dam/oona/aem-images/blog/cara-memilih-asuransi-terbaik.webp",
+    "tanggal": "2024-05-18",
+    "kategori": "Finansial",
+    "isi": "Jenis asuransi mobil meliputi TLO (Total Loss Only) dan All Risk. TLO cocok untuk mobil lama, sedangkan All Risk melindungi dari segala jenis kerusakan. Bandingkan premi dan manfaatnya sebelum memilih."
+  },
+  {
+    "id": 17,
+    "judul": "Apakah Mobil Hybrid Cocok di Indonesia?",
+    "kutipan": "Simak kelebihan dan tantangan mobil hybrid di tanah air.",
+    "gambar": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,f_auto,q_auto:best,w_640/v1575511333/mkf1luptxiuyk0jrvmhu.jpg",
+    "tanggal": "2024-05-19",
+    "kategori": "Teknologi",
+    "isi": "Mobil hybrid menawarkan efisiensi bahan bakar dan ramah lingkungan. Namun, tantangan utama adalah harga yang lebih mahal dan ketersediaan bengkel khusus. Meski begitu, mobil hybrid makin cocok seiring berkembangnya infrastruktur."
+  },
+  {
+    "id": 18,
+    "judul": "Cara Memilih Mobil Bekas yang Berkualitas",
+    "kutipan": "Cek daftar tips sebelum beli mobil second biar nggak zonk!",
+    "gambar": "https://www.smsfinance.co.id/lib/images/news/7-Tips-Membeli-Mobil-Bekas-Harga-Terjangkau-untuk-Pemula.jpg",
+    "tanggal": "2024-05-20",
+    "kategori": "Tips Pembelian",
+    "isi": "Cek riwayat servis, kondisi mesin, bodi mobil, dan pastikan dokumen lengkap. Test drive penting untuk merasakan performa mobil langsung. Jangan ragu gunakan jasa inspeksi pihak ketiga."
+  },
+  {
+    "id": 19,
+    "judul": "Bahaya Overheat dan Cara Mengatasinya",
+    "kutipan": "Jangan panik! Begini cara menanggulangi mesin mobil yang overheat.",
+    "gambar": "https://suzukicdn.com/uploads/news/SIS-Jan-Blog-10.webp",
+    "tanggal": "2024-05-21",
+    "kategori": "Perawatan",
+    "isi": "Overheat bisa disebabkan oleh radiator bocor, kipas mati, atau air radiator habis. Matikan mesin, buka kap, dan tunggu dingin. Jangan langsung membuka tutup radiator saat panas. Periksa sistem pendingin secara berkala."
+  },
+  {
+    "id": 20,
+    "judul": "Teknologi Terkini di Mobil Modern",
+    "kutipan": "Mulai dari AI, sensor pintar, hingga mobil self-driving!",
+    "gambar": "https://autoride.co.id/wp-content/uploads/2021/08/header-teknologi.jpg",
+    "tanggal": "2024-05-22",
+    "kategori": "Teknologi",
+    "isi": "Mobil modern dilengkapi fitur seperti adaptive cruise control, lane assist, AI pada infotainment, dan bahkan teknologi self-driving. Inovasi ini meningkatkan kenyamanan dan keselamatan berkendara."
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "car_id": 1,
+    "name": "Andi Pratama",
+    "rating": 5,
+    "comment": "Mobil sangat nyaman dan bersih. Sopir juga ramah. Akan sewa lagi kalau ke Bali!"
+  },
+  {
+    "car_id": 1,
+    "name": "Sari Lestari",
+    "rating": 4,
+    "comment": "Pelayanan oke, cuma AC mobil agak kurang dingin. Tapi overall puas."
+  },
+  {
+    "car_id": 2,
+    "name": "Budi Setiawan",
+    "rating": 5,
+    "comment": "Sewa untuk perjalanan keluarga ke luar kota. Mobil irit dan kuat nanjak!"
+  },
+  {
+    "car_id": 3,
+    "name": "Dewi Kartika",
+    "rating": 3,
+    "comment": "Mobil sesuai deskripsi, tapi pengambilan agak telat."
+  },
+  {
+    "car_id": 2,
+    "name": "Rama Wijaya",
+    "rating": 4,
+    "comment": "Enak dipakai keliling Jakarta. Mobil bersih dan wangi."
+  }
+]

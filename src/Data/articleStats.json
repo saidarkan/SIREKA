@@ -1,0 +1,38 @@
+[
+  {
+    "year": 2022,
+    "articles": [
+      { "title": "Tips Liburan Murah", "views": 680 },
+      { "title": "Destinasi Populer 2025", "views": 900 },
+      { "title": "Promo Paket Wisata", "views": 740 },
+      { "title": "Kuliner Wajib Coba", "views": 800 }
+    ]
+  },
+  {
+    "year": 2023,
+    "articles": [
+      { "title": "Tips Liburan Murah", "views": 730 },
+      { "title": "Destinasi Populer 2025", "views": 1020 },
+      { "title": "Promo Paket Wisata", "views": 870 },
+      { "title": "Kuliner Wajib Coba", "views": 930 }
+    ]
+  },
+  {
+    "year": 2024,
+    "articles": [
+      { "title": "Tips Liburan Murah", "views": 820 },
+      { "title": "Destinasi Populer 2025", "views": 1200 },
+      { "title": "Promo Paket Wisata", "views": 950 },
+      { "title": "Kuliner Wajib Coba", "views": 1020 }
+    ]
+  },
+  {
+    "year": 2025,
+    "articles": [
+      { "title": "Tips Liburan Murah", "views": 790 },
+      { "title": "Destinasi Populer 2025", "views": 1100 },
+      { "title": "Promo Paket Wisata", "views": 880 },
+      { "title": "Kuliner Wajib Coba", "views": 990 }
+    ]
+  }
+]

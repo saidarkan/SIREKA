@@ -1,0 +1,506 @@
+[
+    {
+        "id": 1,
+        "brand": "Toyota",
+        "model": "Avanza",
+        "image": "https://medias.auto2000.co.id/sys-master-hybrismedia/h66/h68/8831557468190/avanza-g-white_optimized.png",
+        "year": 2022,
+        "price_per_day": 400000,
+        "specifications": {
+            "seats": 7,
+            "fuel_type": "Pertalite",
+            "transmission": "Manual"
+        },
+        "dimensions": {
+            "length": 4190,
+            "width": 1660,
+            "height": 1695
+        },
+        "features": {
+            "gps": true,
+            "air_conditioning": true,
+            "bluetooth": true
+        },
+        "availability": true
+    },
+    {
+        "id": 2,
+        "brand": "Honda",
+        "model": "Brio",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM5Vbc7HzahTCD_CJEPGqKjVgso1LMKau-dQ&s",
+        "year": 2021,
+        "price_per_day": 300000,
+        "specifications": {
+            "seats": 5,
+            "fuel_type": "Pertalite",
+            "transmission": "Automatic"
+        },
+        "dimensions": {
+            "length": 3800,
+            "width": 1680,
+            "height": 1485
+        },
+        "features": {
+            "gps": false,
+            "air_conditioning": true,
+            "bluetooth": true
+        },
+        "availability": true
+    },
+    {
+        "id": 3,
+        "brand": "Mitsubishi",
+        "model": "Pajero Sport",
+        "year": 2023,
+        "image": "https://www.mitsubishi-bandung.com/wp-content/uploads/2024/09/new-pajero-sport-Jet-Black-Mica.webp",
+        "price_per_day": 800000,
+        "specifications": {
+            "seats": 7,
+            "fuel_type": "Pertamax",
+            "transmission": "Automatic"
+        },
+        "dimensions": {
+            "length": 4825,
+            "width": 1815,
+            "height": 1835
+        },
+        "features": {
+            "gps": true,
+            "air_conditioning": true,
+            "bluetooth": true
+        },
+        "availability": false
+    },
+    {
+        "id": 4,
+        "brand": "Suzuki",
+        "model": "Ertiga",
+        "image": "https://www.suzuki.co.th/img/Suzuki_website/ertiga_211122/ertiga_spec_price.png",
+        "year": 2020,
+        "price_per_day": 350000,
+        "specifications": {
+            "seats": 7,
+            "fuel_type": "Pertalite",
+            "transmission": "Manual"
+        },
+        "dimensions": {
+            "length": 4395,
+            "width": 1735,
+            "height": 1690
+        },
+        "features": {
+            "gps": false,
+            "air_conditioning": true,
+            "bluetooth": true
+        },
+        "availability": true
+    },
+    {
+        "id": 5,
+        "brand": "Daihatsu",
+        "model": "Xenia",
+        "image": "https://imgcdnblog.carmudi.com.ph/wp-content/uploads/2021/11/23153412/Daihatsu-Xenia-1.3-X.jpg",
+        "year": 2021,
+        "price_per_day": 380000,
+        "specifications": {
+            "seats": 7,
+            "fuel_type": "Pertalite",
+            "transmission": "Manual"
+        },
+        "dimensions": {
+            "length": 4190,
+            "width": 1695,
+            "height": 1660
+        },
+        "features": {
+            "gps": true,
+            "air_conditioning": true,
+            "bluetooth": true
+        },
+        "availability": true
+    },
+    {
+        "id": 6,
+        "brand": "Ford",
+        "model": "Ranger",
+        "image": "https://x-workscars.com/wp-content/uploads/2024/02/FRONT-kopia_outline3-2-2-1138x800.jpg",
+        "year": 2022,
+        "price_per_day": 700000,
+        "specifications": {
+            "seats": 5,
+            "fuel_type": "Pertamax",
+            "transmission": "Manual"
+        },
+        "dimensions": {
+            "length": 5274,
+            "width": 2028,
+            "height": 1884
+        },
+        "features": {
+            "gps": true,
+            "air_conditioning": true,
+            "bluetooth": true
+        },
+        "availability": false
+    },
+    {
+        "id": 7,
+        "brand": "Mercedes-Benz",
+        "model": "C-Class",
+        "image": "https://img.cintamobil.com/2021/10/20/cWC5a43e/c-class-640b.png",
+        "year": 2023,
+        "price_per_day": 1500000,
+        "specifications": {
+            "seats": 5,
+            "fuel_type": "Pertalite",
+            "transmission": "Automatic"
+        },
+        "dimensions": {
+            "length": 4686,
+            "width": 1810,
+            "height": 1442
+        },
+        "features": {
+            "gps": true,
+            "air_conditioning": true,
+            "bluetooth": true
+        },
+        "availability": true
+    },
+    {
+        "id": 8,
+        "brand": "BMW",
+        "model": "X5",
+        "image": "https://images.dealer.com/ddc/vehicles/2023/BMW/X5%20PHEV/SUV/perspective/front-left/2022_76.png",
+        "year": 2023,
+        "price_per_day": 2000000,
+        "specifications": {
+            "seats": 5,
+            "fuel_type": "Pertalite",
+            "transmission": "Automatic"
+        },
+        "dimensions": {
+            "length": 4922,
+            "width": 2004,
+            "height": 1745
+        },
+        "features": {
+            "gps": true,
+            "air_conditioning": true,
+            "bluetooth": true
+        },
+        "availability": true
+    },
+    {
+        "id": 9,
+        "brand": "Mercedes-Benz",
+        "model": "SLK",
+        "image": "https://www.baliprestigecar.com/wp-content/uploads/2024/08/Mercedes-Benz-SLK-460x320.jpg",
+        "year": 2023,
+        "price_per_day": 2000000,
+        "specifications": {
+            "seats": 5,
+            "fuel_type": "Pertalite",
+            "transmission": "Automatic"
+        },
+        "dimensions": {
+            "length": 4922,
+            "width": 2004,
+            "height": 1745
+        },
+        "features": {
+            "gps": true,
+            "air_conditioning": true,
+            "bluetooth": true
+        },
+        "availability": true
+    },
+    {
+        "id": 10,
+        "brand": "Porsche",
+        "model": "Boxter",
+        "image": "https://www.baliprestigecar.com/wp-content/uploads/2024/08/Porsche-Bosxter-Convertible-2014-460x320.jpg",
+        "year": 2023,
+        "price_per_day": 2000000,
+        "specifications": {
+            "seats": 5,
+            "fuel_type": "Pertalite",
+            "transmission": "Automatic"
+        },
+        "dimensions": {
+            "length": 4922,
+            "width": 2004,
+            "height": 1745
+        },
+        "features": {
+            "gps": true,
+            "air_conditioning": true,
+            "bluetooth": true
+        },
+        "availability": true
+    },
+    {
+        "id": 11,
+        "brand": "Mustang",
+        "model": "Coupe",
+        "image": "https://www.baliprestigecar.com/wp-content/uploads/2024/08/Mustang-Coupe-2022-460x320.jpg",
+        "year": 2023,
+        "price_per_day": 2000000,
+        "specifications": {
+            "seats": 5,
+            "fuel_type": "Pertamax",
+            "transmission": "Automatic"
+        },
+        "dimensions": {
+            "length": 4922,
+            "width": 2004,
+            "height": 1745
+        },
+        "features": {
+            "gps": true,
+            "air_conditioning": true,
+            "bluetooth": true
+        },
+        "availability": true
+    },
+    {
+        "id": 12,
+        "brand": "BMW",
+        "model": "X3",
+        "image": "https://www.baliprestigecar.com/wp-content/uploads/2024/09/Sewa-BMW-X3-fix-1-460x395.jpg",
+        "year": 2023,
+        "price_per_day": 2000000,
+        "specifications": {
+            "seats": 5,
+            "fuel_type": "Petrol",
+            "transmission": "Automatic"
+        },
+        "dimensions": {
+            "length": 4922,
+            "width": 2004,
+            "height": 1745
+        },
+        "features": {
+            "gps": true,
+            "air_conditioning": true,
+            "bluetooth": true
+        },
+        "availability": true
+    },
+    {
+        "id": 13,
+        "brand": "BMW",
+        "model": "430 Coupe",
+        "image": "https://www.baliprestigecar.com/wp-content/uploads/2024/09/BMW-430-Coupe-fix6.jpg",
+        "year": 2023,
+        "price_per_day": 2000000,
+        "specifications": {
+            "seats": 5,
+            "fuel_type": "Petrol",
+            "transmission": "Automatic"
+        },
+        "dimensions": {
+            "length": 4922,
+            "width": 2004,
+            "height": 1745
+        },
+        "features": {
+            "gps": true,
+            "air_conditioning": true,
+            "bluetooth": true
+        },
+        "availability": true
+    },
+    {
+        "id": 14,
+        "brand": "BMW",
+        "model": "F30",
+        "image": "https://www.baliprestigecar.com/wp-content/uploads/2024/09/BMW-F30i-fix-460x395.jpg",
+        "year": 2023,
+        "price_per_day": 2000000,
+        "specifications": {
+            "seats": 5,
+            "fuel_type": "Petrol",
+            "transmission": "Automatic"
+        },
+        "dimensions": {
+            "length": 4922,
+            "width": 2004,
+            "height": 1745
+        },
+        "features": {
+            "gps": true,
+            "air_conditioning": true,
+            "bluetooth": true
+        },
+        "availability": true
+    },
+    {
+        "id": 15,
+        "brand": "BMW",
+        "model": "Z4",
+        "image": "https://www.baliprestigecar.com/wp-content/uploads/2024/09/BMW-Z4-fix-1.jpg",
+        "year": 2023,
+        "price_per_day": 2000000,
+        "specifications": {
+            "seats": 5,
+            "fuel_type": "Petrol",
+            "transmission": "Automatic"
+        },
+        "dimensions": {
+            "length": 4922,
+            "width": 2004,
+            "height": 1745
+        },
+        "features": {
+            "gps": true,
+            "air_conditioning": true,
+            "bluetooth": true
+        },
+        "availability": true
+    },
+    {
+        "id": 16,
+        "brand": "BMW",
+        "model": "430i",
+        "image": "https://www.baliprestigecar.com/wp-content/uploads/2024/09/BMW-430i-fix.jpg",
+        "year": 2023,
+        "price_per_day": 2000000,
+        "specifications": {
+            "seats": 5,
+            "fuel_type": "Petrol",
+            "transmission": "Automatic"
+        },
+        "dimensions": {
+            "length": 4922,
+            "width": 2004,
+            "height": 1745
+        },
+        "features": {
+            "gps": true,
+            "air_conditioning": true,
+            "bluetooth": true
+        },
+        "availability": true
+    },
+    {
+        "id": 17,
+        "brand": "Mini Cooper",
+        "model": "Countryman",
+        "image": "https://www.baliprestigecar.com/wp-content/uploads/2024/09/MINI-Cooper-Countryman-6.jpg",
+        "year": 2023,
+        "price_per_day": 2000000,
+        "specifications": {
+            "seats": 5,
+            "fuel_type": "Petrol",
+            "transmission": "Automatic"
+        },
+        "dimensions": {
+            "length": 4922,
+            "width": 2004,
+            "height": 1745
+        },
+        "features": {
+            "gps": true,
+            "air_conditioning": true,
+            "bluetooth": true
+        },
+        "availability": true
+    },
+    {
+        "id": 18,
+        "brand": "Mini Cooper",
+        "model": "Cabrio S",
+        "image": "https://www.baliprestigecar.com/wp-content/uploads/2024/09/Sewa-MINI-Cooper-Cabrio-Zesty-Yellow-di-Bali-6.jpg",
+        "year": 2023,
+        "price_per_day": 2000000,
+        "specifications": {
+            "seats": 5,
+            "fuel_type": "Petrol",
+            "transmission": "Automatic"
+        },
+        "dimensions": {
+            "length": 4922,
+            "width": 2004,
+            "height": 1745
+        },
+        "features": {
+            "gps": true,
+            "air_conditioning": true,
+            "bluetooth": true
+        },
+        "availability": true
+    },
+    {
+        "id": 19,
+        "brand": " Ford Mustang",
+        "model": "Convertible",
+        "image": "https://www.baliprestigecar.com/wp-content/uploads/2024/09/Sewa-Mustang-Convertible-di-Bali-6.jpg",
+        "year": 2023,
+        "price_per_day": 2000000,
+        "specifications": {
+            "seats": 5,
+            "fuel_type": "Petrol",
+            "transmission": "Automatic"
+        },
+        "dimensions": {
+            "length": 4922,
+            "width": 2004,
+            "height": 1745
+        },
+        "features": {
+            "gps": true,
+            "air_conditioning": true,
+            "bluetooth": true
+        },
+        "availability": true
+    },
+    {
+        "id": 20,
+        "brand": "Jeep Rubicon",
+        "model": "Sahara",
+        "image": "https://www.baliprestigecar.com/wp-content/uploads/2024/09/Rubicon-Sahara-Orange-6.jpg",
+        "year": 2023,
+        "price_per_day": 2000000,
+        "specifications": {
+            "seats": 5,
+            "fuel_type": "Petrol",
+            "transmission": "Automatic"
+        },
+        "dimensions": {
+            "length": 4922,
+            "width": 2004,
+            "height": 1745
+        },
+        "features": {
+            "gps": true,
+            "air_conditioning": true,
+            "bluetooth": true
+        },
+        "availability": true
+    },
+    {
+        "id": 21,
+        "brand": "Mercedes-Benz",
+        "model": "GLC 300",
+        "image": "https://www.baliprestigecar.com/wp-content/uploads/2024/09/Mercy-GLC-300-5-460x395.jpg",
+        "year": 2023,
+        "price_per_day": 2000000,
+        "specifications": {
+            "seats": 5,
+            "fuel_type": "Petrol",
+            "transmission": "Automatic"
+        },
+        "dimensions": {
+            "length": 4922,
+            "width": 2004,
+            "height": 1745
+        },
+        "features": {
+            "gps": true,
+            "air_conditioning": true,
+            "bluetooth": true
+        },
+        "availability": true
+    }
+]

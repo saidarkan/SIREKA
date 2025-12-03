@@ -1,0 +1,42 @@
+[
+  {
+    "pertanyaan": "Bagaimana cara mendaftar layanan kami?",
+    "jawaban": "Anda dapat mendaftar dengan mengisi formulir pendaftaran di halaman 'Daftar' dan mengikuti petunjuk yang diberikan."
+  },
+  {
+    "pertanyaan": "Apa metode pembayaran yang tersedia?",
+    "jawaban": "Kami menerima pembayaran melalui transfer bank, e-wallet, dan kartu kredit."
+  },
+  {
+    "pertanyaan": "Berapa lama proses konfirmasi pembayaran?",
+    "jawaban": "Proses konfirmasi pembayaran biasanya memakan waktu 1x24 jam setelah pembayaran dilakukan."
+  },
+  {
+    "pertanyaan": "Apakah layanan tersedia di luar kota?",
+    "jawaban": "Saat ini layanan kami hanya tersedia di beberapa kota besar. Silakan cek area cakupan di halaman 'Layanan Kami'."
+  },
+  {
+    "pertanyaan": "Bagaimana jika saya lupa password?",
+    "jawaban": "Gunakan fitur 'Lupa Password' di halaman login dan ikuti instruksi untuk mengatur ulang password Anda."
+  },
+  {
+    "pertanyaan": "Bisakah saya mengubah informasi profil saya?",
+    "jawaban": "Ya, Anda bisa mengubah informasi profil melalui menu 'Akun Saya' setelah login."
+  },
+  {
+    "pertanyaan": "Apakah saya bisa membatalkan layanan yang sudah dipesan?",
+    "jawaban": "Pembatalan dapat dilakukan maksimal 24 jam sebelum layanan dimulai. Silakan hubungi tim CS kami untuk bantuan."
+  },
+  {
+    "pertanyaan": "Apakah tersedia layanan pelanggan?",
+    "jawaban": "Ya, layanan pelanggan kami tersedia setiap hari dari pukul 08:00 hingga 22:00."
+  },
+  {
+    "pertanyaan": "Bagaimana cara menghubungi kami?",
+    "jawaban": "Anda bisa menghubungi kami melalui email, WhatsApp, atau formulir kontak yang tersedia di halaman 'Kontak'."
+  },
+  {
+    "pertanyaan": "Apakah data pribadi saya aman?",
+    "jawaban": "Kami menjamin bahwa seluruh data Anda akan disimpan secara aman dan tidak dibagikan kepada pihak ketiga."
+  }
+]

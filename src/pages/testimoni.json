@@ -1,0 +1,162 @@
+[
+  {
+    "car_id": 1,
+    "nama": "Dewi Ayu",
+    "jabatan": "Mahasiswi Universitas Indonesia",
+    "pesan": "Layanan sangat cepat dan memuaskan. Saya sangat merekomendasikannya!",
+    "foto": "https://i.pravatar.cc/100?img=5",
+    "rating": 4.8
+  },
+  {
+    "car_id": 2,
+    "nama": "Budi Santoso",
+    "jabatan": "Karyawan Swasta di Jakarta",
+    "pesan": "Sangat mudah dipesan, mobil bersih dan nyaman. Luar biasa!",
+    "foto": "https://i.pravatar.cc/100?img=3",
+    "rating": 4.3
+  },
+  {
+    "car_id": 3,
+    "nama": "Siti Rahma",
+    "jabatan": "Ibu Rumah Tangga",
+    "pesan": "Terima kasih banyak! Cocok untuk perjalanan keluarga.",
+    "foto": "https://i.pravatar.cc/100?img=8",
+    "rating": 4.6
+  },
+  {
+    "car_id": 4,
+    "nama": "Andi Wijaya",
+    "jabatan": "Freelancer",
+    "pesan": "Harga bersaing dan sangat profesional. Akan pesan lagi.",
+    "foto": "https://i.pravatar.cc/100?img=15",
+    "rating": 4.9
+  },
+  {
+    "car_id": 5,
+    "nama": "Lina Marlina",
+    "jabatan": "Guru Sekolah Dasar",
+    "pesan": "Pengalaman pertama yang menyenangkan. Supirnya ramah.",
+    "foto": "https://i.pravatar.cc/100?img=20",
+    "rating": 4.5
+  },
+  {
+    "car_id": 6,
+    "nama": "Rudi Hartono",
+    "jabatan": "Pengusaha Muda",
+    "pesan": "Mobil baru dan pelayanan maksimal. Sangat puas!",
+    "foto": "https://i.pravatar.cc/100?img=11",
+    "rating": 4.7
+  },
+  {
+    "car_id": 7,
+    "nama": "Mega Putri",
+    "jabatan": "Content Creator",
+    "pesan": "Booking mudah dan cepat, cocok buat yang sibuk.",
+    "foto": "https://i.pravatar.cc/100?img=21",
+    "rating": 4.4
+  },
+  {
+    "car_id": 8,
+    "nama": "Daniel Siregar",
+    "jabatan": "Dosen Universitas Negeri",
+    "pesan": "Respon cepat dan layanan sangat informatif.",
+    "foto": "https://i.pravatar.cc/100?img=12",
+    "rating": 4.6
+  },
+  {
+    "car_id": 9,
+    "nama": "Nur Aini",
+    "jabatan": "Apoteker",
+    "pesan": "Saya merasa sangat aman dan nyaman selama perjalanan.",
+    "foto": "https://i.pravatar.cc/100?img=7",
+    "rating": 4.8
+  },
+  {
+    "car_id": 10,
+    "nama": "Iqbal Ramadhan",
+    "jabatan": "Mahasiswa Politeknik",
+    "pesan": "Driver sangat berpengalaman, sangat direkomendasikan!",
+    "foto": "https://i.pravatar.cc/100?img=9",
+    "rating": 4.2
+  },
+  {
+    "car_id": 11,
+    "nama": "Tari Lestari",
+    "jabatan": "Desainer Grafis",
+    "pesan": "Suka dengan pilihan mobil dan kebersihannya.",
+    "foto": "https://i.pravatar.cc/100?img=25",
+    "rating": 4.5
+  },
+  {
+    "car_id": 12,
+    "nama": "Fahmi Alamsyah",
+    "jabatan": "Barista",
+    "pesan": "Mantap! Harga sesuai dengan kualitas layanan.",
+    "foto": "https://i.pravatar.cc/100?img=13",
+    "rating": 4.3
+  },
+  {
+    "car_id": 13,
+    "nama": "Citra Handayani",
+    "jabatan": "Ibu Muda",
+    "pesan": "Mobil nyaman untuk bawa anak kecil, top banget.",
+    "foto": "https://i.pravatar.cc/100?img=19",
+    "rating": 4.7
+  },
+  {
+    "car_id": 14,
+    "nama": "Bayu Saputra",
+    "jabatan": "Sopir Online",
+    "pesan": "Saya suka sistem booking-nya yang simpel.",
+    "foto": "https://i.pravatar.cc/100?img=10",
+    "rating": 4.4
+  },
+  {
+    "car_id": 15,
+    "nama": "Maya Indriani",
+    "jabatan": "Bidan Desa",
+    "pesan": "Terima kasih! Perjalanan jadi lebih aman.",
+    "foto": "https://i.pravatar.cc/100?img=16",
+    "rating": 4.6
+  },
+  {
+    "car_id": 16,
+    "nama": "Galang Prakoso",
+    "jabatan": "Teknisi Komputer",
+    "pesan": "Mudah diakses dan praktis, sangat membantu.",
+    "foto": "https://i.pravatar.cc/100?img=23",
+    "rating": 4.3
+  },
+  {
+    "car_id": 17,
+    "nama": "Wulan Febriyanti",
+    "jabatan": "Asisten Dosen",
+    "pesan": "Cepat, tepat, dan sangat terpercaya.",
+    "foto": "https://i.pravatar.cc/100?img=24",
+    "rating": 4.9
+  },
+  {
+    "car_id": 18,
+    "nama": "Rangga Pratama",
+    "jabatan": "Pekerja Lepas",
+    "pesan": "Banyak pilihan mobil dan supir profesional.",
+    "foto": "https://i.pravatar.cc/100?img=27",
+    "rating": 4.5
+  },
+  {
+    "car_id": 19,
+    "nama": "Yulia Sari",
+    "jabatan": "Mahasiswi Teknik",
+    "pesan": "Website-nya bagus, mudah dimengerti.",
+    "foto": "https://i.pravatar.cc/100?img=28",
+    "rating": 4.7
+  },
+  {
+    "car_id": 20,
+    "nama": "Aldi Firmansyah",
+    "jabatan": "Karyawan Startup",
+    "pesan": "Support pelanggan responsif banget. Good job!",
+    "foto": "https://i.pravatar.cc/100?img=29",
+    "rating": 4.8
+  }
+]

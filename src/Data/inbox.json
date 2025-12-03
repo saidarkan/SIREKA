@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "sender": "Budi Santoso",
+    "subject": "Pertanyaan Harga",
+    "message": "Halo, saya ingin menanyakan harga sewa untuk Toyota Avanza selama 3 hari.",
+    "date": "2025-06-10",
+    "status": "Unread"
+  },
+  {
+    "id": 2,
+    "sender": "Siti Aminah",
+    "subject": "Pembatalan Booking",
+    "message": "Mohon maaf, saya ingin membatalkan booking saya untuk tanggal 2025-06-18.",
+    "date": "2025-06-11",
+    "status": "Read"
+  },
+  {
+    "id": 3,
+    "sender": "Dewi Lestari",
+    "subject": "Konfirmasi Pembayaran",
+    "message": "Saya sudah melakukan pembayaran untuk booking Mitsubishi Pajero. Mohon konfirmasi.",
+    "date": "2025-06-12",
+    "status": "Unread"
+  },
+  {
+    "id": 4,
+    "sender": "Agus Prabowo",
+    "subject": "Perubahan Tanggal Booking",
+    "message": "Saya ingin mengubah tanggal booking menjadi 2025-06-24.",
+    "date": "2025-06-12",
+    "status": "Read"
+  },
+  {
+    "id": 5,
+    "sender": "Yulianto",
+    "subject": "Permintaan Invoice",
+    "message": "Tolong kirimkan invoice untuk booking Ford Ranger.",
+    "date": "2025-06-13",
+    "status": "Unread"
+  },
+  {
+    "id": 6,
+    "sender": "Fitri Andayani",
+    "subject": "Diskon untuk pelanggan lama",
+    "message": "Apakah ada diskon untuk pelanggan setia seperti saya?",
+    "date": "2025-06-14",
+    "status": "Read"
+  },
+  {
+    "id": 7,
+    "sender": "Rudi Hartono",
+    "subject": "Masalah Kendaraan",
+    "message": "Ada sedikit kerusakan kecil di bagian bumper mobil, mohon tindak lanjut.",
+    "date": "2025-06-15",
+    "status": "Unread"
+  },
+  {
+    "id": 8,
+    "sender": "Mega Sari",
+    "subject": "Booking Tambahan",
+    "message": "Saya ingin menambah 2 hari untuk booking Suzuki Ertiga saya.",
+    "date": "2025-06-16",
+    "status": "Unread"
+  },
+  {
+    "id": 9,
+    "sender": "Andi Prasetyo",
+    "subject": "Request Mobil Lain",
+    "message": "Apakah bisa ganti mobil ke Toyota Innova tipe terbaru?",
+    "date": "2025-06-17",
+    "status": "Read"
+  },
+  {
+    "id": 10,
+    "sender": "Sulastri",
+    "subject": "Konfirmasi Lokasi Penjemputan",
+    "message": "Mohon konfirmasi lokasi penjemputan di Bandara Soetta Terminal 3.",
+    "date": "2025-06-18",
+    "status": "Unread"
+  }
+]
+    

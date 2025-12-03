@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Panduan Rental Mobil untuk Pemula",
+    "author": "Admin RentalKu",
+    "date": "2023-01-15",
+    "status": "Published",
+    "category": "Panduan",
+    "content": "Rental mobil pertama kali bisa membingungkan. Artikel ini akan memandu Anda langkah demi langkah...\n1. Persiapkan dokumen yang diperlukan\n2. Pilih kendaraan sesuai kebutuhan\n3. Pahami syarat dan ketentuan\n4. Lakukan pengecekan kendaraan sebelum berangkat"
+  },
+  {
+    "id": 2,
+    "title": "Tips Memilih Kendaraan untuk Liburan Keluarga",
+    "author": "Budi Santoso",
+    "date": "2023-02-20",
+    "status": "Published",
+    "category": "Tips",
+    "content": "Memilih kendaraan yang tepat untuk liburan keluarga sangat penting...\n- Pertimbangkan jumlah penumpang\n- Sesuaikan dengan medan perjalanan\n- Cek kapasitas bagasi\n- Fasilitas keselamatan untuk anak"
+  },
+  {
+    "id": 3,
+    "title": "Perbandingan Harga Rental Mobil di Berbagai Kota",
+    "author": "Analis RentalKu",
+    "date": "2023-03-10",
+    "status": "Published",
+    "category": "Analisis",
+    "content": "Kami menganalisis harga rental mobil di 5 kota besar...\nJakarta: Rp 300.000 - 500.000/hari\nBandung: Rp 250.000 - 450.000/hari\nBali: Rp 350.000 - 600.000/hari\nSurabaya: Rp 275.000 - 475.000/hari\nYogyakarta: Rp 225.000 - 400.000/hari"
+  },
+  {
+    "id": 4,
+    "title": "Keuntungan Rental Mobil Jangka Panjang",
+    "author": "Manajer RentalKu",
+    "date": "2023-04-05",
+    "status": "Published",
+    "category": "Bisnis",
+    "content": "Rental jangka panjang (1 bulan+) memiliki banyak keuntungan...\n- Harga lebih murah dibanding harian\n- Tidak perlu perawatan kendaraan\n- Bisa ganti kendaraan sesuai kebutuhan\n- Biaya tetap yang mudah dianggarkan"
+  },
+  {
+    "id": 5,
+    "title": "Review Kendaraan Terpopuler RentalKu 2023",
+    "author": "Tim Review RentalKu",
+    "date": "2023-05-12",
+    "status": "Published",
+    "category": "Review",
+    "content": "Berikut review 5 kendaraan terpopuler di RentalKu...\n1. Toyota Avanza - Hemat bahan bakar\n2. Honda CR-V - Nyaman untuk keluarga\n3. Suzuki Ertiga - Spesial harga promo\n4. Mitsubishi Pajero - Untuk adventure\n5. Toyota Hiace - Kapasitas besar"
+  },
+  {
+    "id": 6,
+    "title": "Syarat dan Ketentuan Rental Terbaru 2023",
+    "author": "Legal RentalKu",
+    "date": "2023-06-18",
+    "status": "Published",
+    "category": "Regulasi",
+    "content": "Perubahan syarat dan ketentuan rental 2023...\n- Minimal usia penyewa 21 tahun\n- Deposit menggunakan kartu kredit\n- Batas kilometer harian 300km\n- Asuransi all risk dengan tambahan biaya"
+  },
+  {
+    "id": 7,
+    "title": "Cara Merawat Kendaraan Rental",
+    "author": "Mekanik RentalKu",
+    "date": "2023-07-22",
+    "status": "Published",
+    "category": "Perawatan",
+    "content": "Meskipun kendaraan rental, perawatan tetap penting...\n- Cek tekanan angin secara berkala\n- Ganti oli jika rental jangka panjang\n- Jaga kebersihan interior\n- Isi bahan bakar sesuai rekomendasi"
+  },
+  {
+    "id": 8,
+    "title": "Panduan Rental Mobil Online",
+    "author": "TI RentalKu",
+    "date": "2023-08-30",
+    "status": "Published",
+    "category": "Teknologi",
+    "content": "Langkah-langkah rental mobil melalui aplikasi...\n1. Download aplikasi RentalKu\n2. Verifikasi akun\n3. Pilih kendaraan dan tanggal\n4. Upload dokumen\n5. Pembayaran digital\n6. Ambil kunci di lokasi"
+  },
+  {
+    "id": 9,
+    "title": "Destinasi Wisata dengan Mobil Rental",
+    "author": "Tim Travel RentalKu",
+    "date": "2023-09-14",
+    "status": "Published",
+    "category": "Wisata",
+    "content": "Rekomendasi destinasi yang cocok dengan mobil rental...\n- Pantai Anyer (dari Jakarta)\n- Lembang (dari Bandung)\n- Gunung Bromo (dari Surabaya)\n- Ubud (dari Denpasar)\n- Prambanan (dari Yogyakarta)"
+  },
+  {
+    "id": 10,
+    "title": "Promo Spesial Hari Kemerdekaan",
+    "author": "Marketing RentalKu",
+    "date": "2023-08-10",
+    "status": "Draft",
+    "category": "Promo",
+    "content": "Dapatkan diskon 17% untuk rental selama Agustus...\n- Syarat dan ketentuan berlaku\n- Minimal rental 3 hari\n- Tidak bisa digabung promo lain\n- Berlaku untuk kendaraan tertentu"
+  }
+]
